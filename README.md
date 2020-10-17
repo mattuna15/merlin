@@ -8,6 +8,9 @@ The project will be built up in sections or episodes and use a modular design to
 IDE: 
 * [Easy68K] (http://www.easy68k.com/moreinfo.htm)
 * GCC M68K
+  - Full working C/C++ environment (including Newlib)
+  - Assembler support with Vasm
+  
 
 CPU:
 
@@ -21,7 +24,11 @@ CPU:
 
 * Board - Currently Nexys4DDR (can be amended to use any Xilinx board)
 
-Further details to follow.
+Storage:
+
+* FAT32 SDHC Card support with C Fat Library
+* UART interface with support for S-Record upload
+
 
 [Turbocharged Homebrew](https://www.facebook.com/groups/1609879555846636/)
 
