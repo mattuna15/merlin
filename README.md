@@ -1,9 +1,9 @@
 # Merlin
 ## Learn how to create your own 32-bit system from scratch.
 
-We aim to provide a flexible, open platform to learn or develop 32-bit hardware or software using either a physical or FPGA Arm-style solution.
+A flexible, open platform to learn or develop 32-bit hardware or software using either a physical or FPGA solution.
 
-The project will be built up in sections or episodes and use a modular design to allow you to extend or move in different directions should you so wish.
+The project uses a modular design to allow you to extend or move in different directions should you so wish. At it's heart is the core of a Multicomp system from Grant Searle. http://searle.x10host.com/Multicomp/index.html
 
 <hr>
 
