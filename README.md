@@ -11,6 +11,18 @@ IDE:
   - Full working C/C++ environment (including Newlib) 
   - Assembler support with Vasm
   
+Hardware:
+
+FPGA: ARTY A7-35T https://store.digilentinc.com/arty-a7-artix-7-fpga-development-board/ (Required)
+GFX: Gameduino Dazzler Arduino shield https://excamera.com/sphinx/store.html#gameduino-3x-dazzler-for-arduino-39 (optional)
+Sound: OPL3 Duo https://www.tindie.com/products/cheerful/opl3-duo/ (or any OPL2/3 boards) (optional)
+RTC: https://store.digilentinc.com/pmod-rtcc-real-time-clock-calendar/ (or any mcp794xx RTC i2c) (optional)
+SD Card: https://store.digilentinc.com/pmod-microsd-microsd-card-slot/ (or any SPI sd card) (optional)
+Keyboard: https://store.digilentinc.com/pmod-ps2-keyboard-mouse-connector/ (or any PS2 interface card) (optional)
+
+Also requires 2nd usb-uart 3.3v cable/board to upload software.
+
+
 VHDL:
 
 https://github.com/mattuna15/zed-68k/tree/arty-gd
