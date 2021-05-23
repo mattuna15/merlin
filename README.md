@@ -7,10 +7,13 @@ The project will be built up in sections or episodes and use a modular design to
 
 IDE: 
 * [Easy68K] (http://www.easy68k.com/moreinfo.htm)
-* GCC M68K
-  - Full working C/C++ environment (including Newlib)
+* GCC M68K  (https://github.com/mattuna15/merlin-68k-toolchain)
+  - Full working C/C++ environment (including Newlib) 
   - Assembler support with Vasm
   
+VHDL:
+
+https://github.com/mattuna15/zed-68k/tree/arty-gd
 
 CPU:
 
@@ -30,6 +33,10 @@ Storage:
 
 * FAT32 SDHC Card support with C Fat Library
 * UART interface with support for S-Record upload
+
+Software Examples & drivers:
+* https://github.com/mattuna15/merlin-software
+
 
 
 [Turbocharged Homebrew](https://www.facebook.com/groups/1609879555846636/)
