@@ -5,12 +5,16 @@ We aim to provide a flexible, open platform to learn or develop 32-bit hardware 
 
 The project will be built up in sections or episodes and use a modular design to allow you to extend or move in different directions should you so wish.
 
+<hr>
+
 IDE: 
 * [Easy68K] (http://www.easy68k.com/moreinfo.htm)
 * GCC M68K  (https://github.com/mattuna15/merlin-68k-toolchain)
   - Full working C/C++ environment (including Newlib) 
   - Assembler support with Vasm
-  
+
+<hr>
+
 Hardware:
 
 - FPGA: ARTY A7-35T https://store.digilentinc.com/arty-a7-artix-7-fpga-development-board/ (Required)
@@ -22,10 +26,13 @@ Hardware:
 
 - Also requires 2nd usb-uart 3.3v cable/board to upload software.
 
+<hr>
 
 VHDL:
 
 https://github.com/mattuna15/zed-68k/tree/arty-gd
+
+<hr>
 
 CPU:
 
@@ -41,10 +48,14 @@ CPU:
 
 * Sound - Twin OPL3 chips (FM) Gameduino PCM
 
+<hr>
+
 Storage:
 
 * FAT32 SDHC Card support with C Fat Library
 * UART interface with support for S-Record upload
+
+<hr>
 
 Software Examples & drivers:
 * https://github.com/mattuna15/merlin-software
@@ -54,15 +65,16 @@ Software Examples & drivers:
 [License](https://raw.githubusercontent.com/mattuna15/merlin/master/LICENSE)
 
 <hr>
-Project acknowledgments:
-https://github.com/kanpapa/mic68k
-https://github.com/ProfKelly/EASy68K
-https://github.com/TobiFlex/TG68K.C
-http://searle.x10host.com/Multicomp/index.html
-https://www.retrobrewcomputers.org/doku.php?id=boards:sbc:multicomp:papilio-duo:start
-https://github.com/MJoergen/dyoc
-https://github.com/jefftranter/68000
+Project acknowledgments:<br>
+https://github.com/kanpapa/mic68k<br>
+https://github.com/ProfKelly/EASy68K<br>
+https://github.com/TobiFlex/TG68K.C<br>
+http://searle.x10host.com/Multicomp/index.html<br>
+https://www.retrobrewcomputers.org/doku.php?id=boards:sbc:multicomp:papilio-duo:start<br>
+https://github.com/MJoergen/dyoc<br>
+https://github.com/jefftranter/68000<br>
 
+<hr>
 License:
 
 “By downloading these files you must agree to the following: The original copyright owners of ROM contents are respectfully acknowledged. Use of the contents of any file within your own projects is permitted freely, but any publishing of material containing whole or part of any file distributed here, or derived from the work that I have done here will contain an acknowledgement back to myself, Grant Searle, and a link back to this page. Any file published or distributed that contains all or part of any file from this page must be made available free of charge.” - http://searle.x10host.com/Multicomp/index.html
