@@ -18,11 +18,13 @@ CPU:
 
 * TG68 - 68000/020 CPU (heavily modified)
 
-* VGA - Modified Gameduino
+* VGA/HDMI - Gameduino 3X Dazzler
 
 * Basic - EHBasic 68k
 
-* Board - Currently Nexys4DDR (can be amended to use any Xilinx board)
+* Board - ARTY A7-35T
+
+* Sound - Twin OPL3 chips (FM) Gameduino PCM
 
 Storage:
 
