@@ -6,6 +6,8 @@ A flexible, open platform to learn or develop 32-bit hardware or software using 
 The project uses a modular design to allow you to extend or move in different directions should you so wish. At it's heart is the core of a Multicomp system from Grant Searle. http://searle.x10host.com/Multicomp/index.html
 
 <hr>
+<img width="1302" alt="Screenshot 2021-06-13 at 15 45 34" src="https://user-images.githubusercontent.com/16086727/121814582-bda0da80-cc69-11eb-8a86-3e689ef1d6d6.png">
+<hr>
 
 IDE: 
 * New GCC version of EHBasic. Compiles using standard m68k toolchain. Requires Merlin Newlib and Bios.
