@@ -8,6 +8,7 @@ The project uses a modular design to allow you to extend or move in different di
 <hr>
 
 IDE: 
+* New GCC version of EHBasic. Compiles using standard m68k toolchain. Requires Merlin Newlib and Bios.
 * [Easy68K] (http://www.easy68k.com/moreinfo.htm)
 * GCC M68K  (https://github.com/mattuna15/merlin-68k-toolchain)
   - Full working C/C++ environment (including Newlib) 
@@ -42,7 +43,7 @@ CPU:
 
 * VGA/HDMI - Gameduino 3X Dazzler
 
-* Basic - EHBasic 68k
+* Basic - EHBasic 68k (Now running within GCC)
 
 * Board - ARTY A7-35T
 
