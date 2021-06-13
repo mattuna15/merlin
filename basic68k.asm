@@ -2,6 +2,13 @@
 *										    *
 *	Enhanced BASIC for the Motorola MC680xx					    *
 *										    *
+*	This version is for Merlin FPGA Computer.   			            *
+*	Matt Pearce								    *
+*										    *
+*************************************************************************************
+*										    *
+*	Enhanced BASIC for the Motorola MC680xx					    *
+*										    *
 *	This version is for the TS2 single board computer.		            *
 *	Jeff Tranter (tranter@pobox.com)					    *
 *										    *
