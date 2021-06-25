@@ -7,10 +7,13 @@ The project uses a modular design to allow you to extend or move in different di
 
 <hr>
 <img width="1302" alt="Screenshot 2021-06-13 at 15 45 34" src="https://user-images.githubusercontent.com/16086727/121814582-bda0da80-cc69-11eb-8a86-3e689ef1d6d6.png">
+<img width="597" alt="Screenshot 2021-06-25 at 12 44 19" src="https://user-images.githubusercontent.com/16086727/123424078-41d35600-d5b8-11eb-910a-0ae6332cf34e.png">
 <hr>
 
 IDE: 
-* New GCC version of EHBasic. Compiles using standard m68k toolchain. Requires Merlin Newlib and Bios.
+* New GCC version of EHBasic with FAT32 extensions. 
+  - Compiles using standard m68k toolchain. 
+  - Requires Merlin Newlib and Bios.
 * [Easy68K] (http://www.easy68k.com/moreinfo.htm)
 * GCC M68K  (https://github.com/mattuna15/merlin-68k-toolchain)
   - Full working C/C++ environment (including Newlib) 
@@ -21,6 +24,7 @@ IDE:
 Hardware:
 
 - FPGA: ARTY A7-35T https://store.digilentinc.com/arty-a7-artix-7-fpga-development-board/ (Required)
+- TCPIP/Telnet server hardware accelerated
 - GFX: Gameduino Dazzler Arduino shield https://excamera.com/sphinx/store.html#gameduino-3x-dazzler-for-arduino-39 (optional)
 - Sound: OPL3 Duo https://www.tindie.com/products/cheerful/opl3-duo/ (or any OPL2/3 boards) (optional)
 - RTC: https://store.digilentinc.com/pmod-rtcc-real-time-clock-calendar/ (or any mcp794xx RTC i2c) (optional)
