@@ -60,7 +60,7 @@ CPU:
 Storage:
 
 * FAT32 SDHC Card support with C Fat Library
-* UART interface with support for S-Record upload
+* TELNET Server with support for S-Record upload via Monitor rom
 
 <hr>
 
