@@ -1,0 +1,9 @@
+[submodule "merlin_toolchain"]
+	path = merlin_toolchain
+	url = https://github.com/mattuna15/merlin-68k-toolchain.git
+[submodule "merlin_software"]
+	path = merlin_software
+	url = https://github.com/mattuna15/merlin-software.git
+[submodule "merlin_hardware"]
+	path = merlin_hardware
+	url = https://github.com/mattuna15/zed-68k.git
