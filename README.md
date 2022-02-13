@@ -53,7 +53,7 @@ CPU:
 
 * Basic - EHBasic 68k (Now running within GCC)
 
-* Board - ARTY A7-35T
+* Board - ARTY A7-35/100T
 
 * Sound - Twin OPL3 chips (FM) Gameduino PCM
 
