@@ -33,7 +33,7 @@ Hardware:
 - SD Card: https://store.digilentinc.com/pmod-microsd-microsd-card-slot/ (or any SPI sd card) (optional)
 - Keyboard: https://store.digilentinc.com/pmod-ps2-keyboard-mouse-connector/ (or any PS2 interface card) (optional)
 
-- Also requires 2nd usb-uart 3.3v cable/board to upload software.
+- Console is via usb-uart. Software upload via monitor over ethernet for speed.
 
 <hr>
 
@@ -45,9 +45,9 @@ https://github.com/mattuna15/zed-68k/tree/arty-gd
 
 CPU:
 
-* Framework Multicomp amended to 32bit addresses
+* Framework Multicomp amended to 24bit addresses
 
-* TG68 - 68000/020 CPU (heavily modified)
+* TG68 - 68010 CPU (heavily modified)
 
 * VGA/HDMI - Gameduino 3X Dazzler
 
@@ -57,12 +57,17 @@ CPU:
 
 * Sound - Twin OPL3 chips (FM) Gameduino PCM
 
+* Support for twin SPI Fram chips for external rom storahe
+
+* PS2 keyboard.
+
 <hr>
 
 Storage:
 
 * FAT32 SDHC Card support with C Fat Library
 * TELNET Server with support for S-Record upload via Monitor rom
+* FRAM SPI non-volatile memory
 
 <hr>
 
